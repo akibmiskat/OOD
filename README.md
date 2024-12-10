@@ -1,2 +1,2 @@
-# OOD
-The Bank Management System is a robust and efficient application designed to handle various banking operations. 
+# Bank Management System (Java Development)
+The Bank Management System is a robust and efficient application designed to handle various banking operations. Developed using Java, this system ensures seamless functionality, security, and scalability, making it suitable for modern banking needs. The primary goal is to simplify banking operations for both users and administrators, providing a reliable platform for managing customer accounts, transactions, and banking services.
